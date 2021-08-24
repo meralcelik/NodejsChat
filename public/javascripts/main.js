@@ -1,1 +1,1 @@
-const ap= angular.module('chatdad', []);
+const app = angular.module('chatdad', []);
